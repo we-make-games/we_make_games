@@ -1,0 +1,4 @@
+* Ideas
+This is a collection of game ideas for beginners.
+** RPG
+** Adventure
