@@ -1,4 +1,15 @@
 * Ideas
 This is a collection of game ideas for beginners.
 ** RPG
+*** Post apocalyptic
+**** Features
+- Overworld where you can travel from city to city
+- Merchants where you can buy and sell goods
+- Tactical combat where you can aim at specific hit zones
+- Buildings to discover and loot
+- Random encounters and discoveries when traveling in the overworld
 ** Adventure
+*** The next big thing
+**** Story
+You are a cowboy in a city called Milton and try to capture
+the evil gunslinger Black Bart that has captured your girlfriend.
